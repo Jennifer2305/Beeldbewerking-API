@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+#Ignore pictures folder
+Pictures/
+Edited pictures/
+
+#Contains sensitive information
+/DogMatch web api/appsettings.json
